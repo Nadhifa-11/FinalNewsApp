@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836093731991",
+    "project_id": "idnproject-a85b9",
+    "storage_bucket": "idnproject-a85b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836093731991:android:ffff1843d4e45296e8f5d2",
+        "android_client_info": {
+          "package_name": "com.nadhifa.finalnewsprojectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836093731991-o39ju0etbb4lj3ius185s3i5pcc5nrou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABKLv9sNDljNOfmvZSgfB3teLtGWYV_3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836093731991-o39ju0etbb4lj3ius185s3i5pcc5nrou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
